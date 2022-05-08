@@ -9,4 +9,5 @@ World Famous game Wordle recreated using C
 ENJOY!
 
 Game Preview:
+
 <img width="478" alt="Screen Shot 2022-05-08 at 1 51 00 PM" src="https://user-images.githubusercontent.com/51375432/167309501-6a0a9857-0810-4945-9990-4c1536a8601b.png">
