@@ -1,11 +1,18 @@
 # WordleGame
 World Famous game Wordle recreated using C
+
 • User has 6 attempts to guess the correct answer
+
 • After each guess, it will display the letter list as a hint
+
   • Lower case letter means the word consists of this letter, but in a different location
+  
   • Upper case letter means the letter is in the right place
+  
   • A period means the word does not contain this letter
+  
 • There are three different levels of difficulty: easy, normal, difficult
+
 ENJOY!
 
 Game Preview:
